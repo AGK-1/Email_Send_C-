@@ -1,0 +1,16 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\bin\Debug\net7.0-windows\Email_Sender.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\bin\Debug\net7.0-windows\Email_Sender.deps.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\bin\Debug\net7.0-windows\Email_Sender.runtimeconfig.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\bin\Debug\net7.0-windows\Email_Sender.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\bin\Debug\net7.0-windows\Email_Sender.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.Form1.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.csproj.GenerateResource.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.AssemblyInfoInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.AssemblyInfo.cs
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\refint\Email_Sender.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\Email_Sender.genruntimeconfig.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Email_Sender\Email_Sender\obj\Debug\net7.0-windows\ref\Email_Sender.dll
