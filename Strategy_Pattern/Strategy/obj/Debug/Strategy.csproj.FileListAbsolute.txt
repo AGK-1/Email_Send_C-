@@ -1,7 +1,0 @@
-C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Strategy\Strategy\bin\Debug\Strategy.exe.config
-C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Strategy\Strategy\bin\Debug\Strategy.exe
-C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Strategy\Strategy\bin\Debug\Strategy.pdb
-C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Strategy\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
-C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
-C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Strategy\Strategy\obj\Debug\Strategy.exe
-C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Strategy\Strategy\obj\Debug\Strategy.pdb
